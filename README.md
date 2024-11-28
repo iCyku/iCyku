@@ -8,10 +8,10 @@ Hello, I am known by the virtual name Nitroids. I am a passionate developer with
 
 <div style="display: flex; justify-content: center; gap: 20px;">
   <div>
-    ![](https://github-readme-stats.vercel.app/api?username=iCyku&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true)
+    ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iCyku&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true)
   </div>
   <div>
-    ![](https://github-readme-streak-stats.herokuapp.com/?user=iCyku&theme=tokyonight&hide_border=true)
+    ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=iCyku&theme=tokyonight&hide_border=true)
   </div>
 </div>
 
