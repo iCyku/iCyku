@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iCyku&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iCyku&theme=tokyonight&hide_border=true" height="150" alt="GitHub Streak" />
 </div>
 
 ###
@@ -33,12 +33,6 @@
 ###
 
 <br clear="both">
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iCyku&theme=tokyonight&hide_border=true" height="150" alt="GitHub Streak" />
-</div>
-
-###
 
 <div align="center">
   <img src="https://github-trophies.vercel.app/?username=iCyku&theme=algolia&no-frame=false&no-bg=false&margin-w=4" />
