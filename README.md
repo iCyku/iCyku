@@ -1,4 +1,4 @@
-<h2 align="left">Hello, I am known by the virtual name Nitroids. I am a passionate developer with a lot of free time.</h2>
+<h3 align="left">Hello, I am known by the virtual name Nitroids. I am a passionate developer with a lot of free time.</h3>
 
 ###
 
