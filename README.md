@@ -1,10 +1,9 @@
-<h2 align="left">Hello, My virtual name is Nitroids I am a passionate developer with alot of free time</h2>
+<h2 align="left">Hello, I am known by the virtual name Nitroids. I am a passionate developer with a lot of free time.</h2>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iCyku&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=iCyku&locale=en&mode=daily&theme=custom&custom_title_color=ffffff&custom_text_color=ffffff&custom_theme_color=0366d6&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=iCyku&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&custom_title=%20" height="150" alt="stats graph"  />
 </div>
 
 ###
