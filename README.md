@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iCyku&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&custom_title=%20" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=iCyku&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true" height="150" alt="GitHub Stats" />
 </div>
 
 ###
@@ -18,10 +18,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height="30" alt="html5 logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" height="30" alt="css3 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="30" alt="react logo" />
 </div>
 
 ###
@@ -39,7 +35,19 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/iCyku/count.svg?" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iCyku&theme=tokyonight&hide_border=true" height="150" alt="GitHub Streak" />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-trophies.vercel.app/?username=iCyku&theme=algolia&no-frame=false&no-bg=false&margin-w=4" />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://visitcount.itsvg.in/api?id=iCyku&icon=0&color=1" />
 </div>
 
 ###
