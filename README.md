@@ -12,9 +12,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" height="30" alt="css3 logo" />
 </div>
 
-
 <br clear="both">
-
 
 ##
 
@@ -23,6 +21,4 @@
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=iCyku&theme=tokyonight&hide_border=true" height="150" alt="GitHub Streak" />
 </div>
-
-##
 
