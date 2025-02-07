@@ -26,9 +26,3 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-trophies.vercel.app/?username=iCyku&theme=algolia&no-frame=false&no-bg=false&margin-w=4" />
-</div>
-
-
-###
