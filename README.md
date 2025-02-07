@@ -30,10 +30,5 @@
   <img src="https://github-trophies.vercel.app/?username=iCyku&theme=algolia&no-frame=false&no-bg=false&margin-w=4" />
 </div>
 
-###
-
-<div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=iCyku&icon=0&color=1" />
-</div>
 
 ###
