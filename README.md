@@ -7,9 +7,9 @@
 ### 🌍 〢 Work on
 🎮 » [CarbonX](https://CarbonX.gg) • A Rocket league BOT
 
-### 📊 〢 Profile views
-<a href="https://sefinek.net/npm/moecounter.js/demo" target="_blank">
-    <img src="https://api.sefinek.net/api/v2/moecounter/@Sefinek-GitHub-Profile?theme=default" alt="Sefinek MoeCounter" title="Statistics have been collected since 12.02.2024 [DD.MM.YYYY].">    
+
+<a href="https://api.sefinek.net/api/v2/moecounter/@iCyku?length=5&theme=default&pixelated=true" target="_blank">
+    <img src="https://api.sefinek.net/api/v2/moecounter/@iCyku?length=5&theme=default&pixelated=true" alt="Sefinek MoeCounter" title=" Why are you checking this.">    
 </a>
 <br><br><br><br><br>
 
