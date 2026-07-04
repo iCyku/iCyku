@@ -2,8 +2,8 @@
 
 ### Welcome on my profile, I'm Nitro
 
-### 🌍 〢 Work on
-🎮 » [CarbonX](https://CarbonX.gg) • A Rocket league BOT
+### 🌍 〢 Projects
+🎮 » [CarbonX](https://CarbonX.gg) • Universal AI Tools
 
 <table>
  <tr>
